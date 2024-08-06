@@ -28,9 +28,6 @@ Users should be able to:
 ![](./images/mobile.png)
 
 
-### Links
-
-- Live Site URL: [https://yvzklc.github.io/blogrLanding/](https://yvzklc.github.io/blogrLanding/)
 
 
 
