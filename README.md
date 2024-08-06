@@ -24,8 +24,7 @@ Users should be able to:
 ### Screenshots
 
 ![](./images/projectImg.png)
-![](./images/tablet.png)
-![](./images/mobile.png)
+
 
 
 
